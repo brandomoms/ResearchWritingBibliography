@@ -1,0 +1,20 @@
+Citations
+---------
+
+1.
+Citation: Benet, J. (2014). Ipfs - Content-addressed, Versioned, P2P File System (Draft 3). ipfs. Retrieved from https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf
+
+Summary: The technical document specifying what ipfs is and how it will work, written by the creators themselves. Speaks to the preceding technologies ipfs is built on
+
+Tags: ipfs, distributed hash table, dht, kademlia, block exchange, git, self-certified filesystem, sfs, design, network, routing, bitswap, block exchange, merkle dag, cryptography, file, version control, ipns
+
+Notes: A good overview of the components of ipfs from the creators themselves, but lacks depth on the topics
+
+2.
+Citation: Wennergren, O., Vidhall, M., & Sorensen, J. (2018). Transparency Analysis Of Distributed File Systems With a focus on InterPlanetary File System. University of Skovde. Retrieved from http://www.diva-portal.org/smash/get/diva2:1221334/FULLTEXT03.pdf
+
+Summary: A comparison of IPFS to other distributed file systems. Particular focus on challenging the claim that ipfs offers a viable alternative architecture to the traditional client-server model of the modern web.
+
+Tags: distributed file systems, replication, performance, scalability, security, transparency, ipfs
+
+Notes: Includes python and bash scripts for performing ipfs ops and running analysis
