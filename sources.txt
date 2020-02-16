@@ -1,0 +1,52 @@
+Citations
+---------
+
+
+1.
+Citation: Benet, J. (2014). Ipfs - Content-addressed, Versioned, P2P File System (Draft 3). ipfs. Retrieved from https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf
+
+Summary: The technical document specifying what ipfs is and how it will work, written by the creators themselves. Speaks to the preceding technologies ipfs is built on
+
+Tags: ipfs, distributed hash table, dht, kademlia, block exchange, git, self-certified filesystem, sfs, design, network, routing, bitswap, block exchange, merkle dag, cryptography, file, version control, ipns
+
+Notes: A good overview of the components of ipfs from the creators themselves, but lacks depth on the topics
+
+
+2.
+Citation: Wennergren, O., Vidhall, M., & Sorensen, J. (2018). Transparency Analysis Of Distributed File Systems With a focus on InterPlanetary File System. University of Skovde. Retrieved from http://www.diva-portal.org/smash/get/diva2:1221334/FULLTEXT03.pdf
+
+Summary: A comparison of IPFS to other distributed file systems. Particular focus on challenging the claim that ipfs offers a viable alternative architecture to the modern web.
+
+Tags: distributed file systems, replication, performance, scalability, security, transparency, ipfs
+
+Notes: Includes python and bash scripts for performing ipfs ops and running analysis
+
+
+3.
+Citation: Kempen, N. V. (2018). An Introduction to IPFS. Arxiv. Retrieved from https://arxiv.org/abs/1407.3561
+
+Summary: Similar to the white paper, but with a more in-depth treatment of the components of IPFS
+
+Tags: ipfs, distributed hash table, dht, BitTorrent, git, decentralized, duplication, ipns, dns, filecoin, usability
+
+Notes: Last part of paper discusses possible future applications of IPFS
+
+
+4.
+Citation: Shen, J., Li, Y., Zhou, Y., & Wang, X. (2019). Understanding I/O performance of IPFS storage. Proceedings of the International Symposium on Quality of Service - IWQoS 19. doi: 10.1145/3326285.3329052
+
+Summary: Quantitative study of I/O operations for IPFS, done by testing an IPFS cluster created on AWS EC2 nodes
+
+Tags: I/O, performance, access pattern, latency, usability
+
+Notes: Identifies performance bottlenecks for specific operations
+
+
+5.
+Citation: Acsigil, O., Zhang, L., Rene, S., Hasegawa, T., Krol, M., Koizumi, Y., … Kita, K. (2019). Towards Peer-to-Peer Content Retrieval Markets:Enhancing IPFS with ICN. ICN '19: Proceedings of the 6th ACM Conference on Information-Centric Networking, 78-. Retrieved from https://dl.acm.org/doi/abs/10.1145/3357150.3357403
+
+Summary: A treatment of the possibility of an application that utilizes IPFS to be used like a CDN
+
+Tags: IPFS, NDN, CDN, P2P, quality of service, incentives, dynamic content, scalability, security
+
+Notes: Contrasts IPFS with NDN, discusses IPFS network architecture and protocols
