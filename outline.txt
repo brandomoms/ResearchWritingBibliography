@@ -1,0 +1,25 @@
+***********
+* Outline *
+***********
+
+Introduction to IPFS
+    Overview
+        Introduction to IPFS ||| all
+
+    Use Case
+    Stack
+        IPFS - Content Addressed, Versioned, P2P File System ||| all
+
+Scalability and IPFS
+    Introduction to IPFS ||| p. 8, author opinion
+    TRANSPARENCY ANALYSIS OF DISTRIBUTED FILE SYSTEMS ||| pp.26, scalability and replication factor
+
+Usability and IPFS
+    Introduction to IPFS ||| pp. 8, no private connections
+    Introduction to IPFS ||| pp. 12, new applications
+    Understanding I/O performance of IPFS storage ||| all, performance bottlenecks
+
+Security and IPFS
+    Introduction to IPFS ||| p. 11, hash collisions
+    TRANSPARENCY ANALYSIS OF DISTRIBUTED FILE SYSTEMS ||| pp.32, general security problems with distributed systems
+    TRANSPARENCY ANALYSIS OF DISTRIBUTED FILE SYSTEMS ||| pp.43, privacy
